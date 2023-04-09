@@ -12,7 +12,7 @@ Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They
 *  https://discord.gg/ad6Cj6PQ84
 
 ## Drop Schedule
-![](https://hackmd.io/_uploads/S1Ep_myzn.png)
+![](https://hackmd.io/_uploads/By4fH-lf3.png)
 
 ---
 
