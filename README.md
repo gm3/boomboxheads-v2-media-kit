@@ -1,9 +1,5 @@
 # Boomboxhead v2 MediaKit
 
-## Logos / Brand
----
-![](https://hackmd.io/_uploads/SkOl8MJGh.jpg)![](https://hackmd.io/_uploads/B146mXyf3.jpg)
-
 ## Project Description
 Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They are 3d multi-format NFTs including artwork, a VRM avatar, and a posed GLB. The assets are available for public use under the CC0 license. This project was produced with boom-tools, an open-source project, running on Unity3d.
 ---
