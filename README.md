@@ -17,7 +17,7 @@ https://github.com/gm3/v2/blob/main/Videos/collection_sample.mp4
 ---
 
 ## Examples
-Here are some 512x512 Examples of images from the collection
+
 ![](https://hackmd.io/_uploads/B1XNVzJGn.jpg)
 
 ![](https://hackmd.io/_uploads/Bkv4EzkMn.jpg)
